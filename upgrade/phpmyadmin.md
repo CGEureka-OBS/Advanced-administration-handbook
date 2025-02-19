@@ -2,7 +2,7 @@
 
 ## What is phpMyAdmin?
 
-An administrator's tool of sorts, phpMyAdmin is a PHP script meant for giving users the ability to interact with their MySQL databases. WordPress stores all of its information in the MySQL database and interacts with the database to generate information within your WordPress site. A "raw" view of the data, tables and fields stored in the MySQL database is accessible through phpMyAdmin.
+An administrator's tool of sorts, phpMyAdmin is a PHP script that allows users to interact with their MySQL databases. WordPress stores all of its information in the MySQL database and interacts with the database to generate information within your WordPress site. A "raw" view of the data, tables and fields stored in the MySQL database is accessible through phpMyAdmin.
 
 ## What is it good for?
 
